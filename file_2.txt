@@ -3,3 +3,4 @@ update file 2
 Feature 2
 Feature B
 Master rebase
+Merge squash
